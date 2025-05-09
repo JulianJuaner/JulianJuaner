@@ -3,6 +3,8 @@ I am Julian, ZHANG Yuechen.
 
 ![20220429_bilibili_banner_dark](https://github.com/JulianJuaner/JulianJuaner/assets/37148692/f22565fb-6ee5-4c57-936e-09e264f457a3)
 
+🔭 I’m currently working on Video Generation, Unified Understanding & Generation.
+🌱 I will finish my Ph.D. study in December 2025, looking for job opportunities starting in 2026.
 <!--
 **JulianJuaner/JulianJuaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
